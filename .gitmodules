@@ -1,0 +1,33 @@
+[submodule "playnite-gameactivity-plugin"]
+	path = playnite-gameactivity-plugin
+	url = https://github.com/Lacro59/playnite-gameactivity-plugin.git
+[submodule "playnite-statistics-plugin"]
+	path = playnite-statistics-plugin
+	url = https://github.com/Lacro59/playnite-statistics-plugin.git
+[submodule "playnite-thememodifier-plugin"]
+	path = playnite-thememodifier-plugin
+	url = https://github.com/Lacro59/playnite-thememodifier-plugin.git
+[submodule "playnite-systemchecker-plugin"]
+	path = playnite-systemchecker-plugin
+	url = https://github.com/Lacro59/playnite-systemchecker-plugin.git
+[submodule "playnite-successstory-plugin"]
+	path = playnite-successstory-plugin
+	url = https://github.com/Lacro59/playnite-successstory-plugin.git
+[submodule "playnite-metadatalocal-plugin"]
+	path = playnite-metadatalocal-plugin
+	url = https://github.com/Lacro59/playnite-metadatalocal-plugin.git
+[submodule "playnite-indiegala-plugin"]
+	path = playnite-indiegala-plugin
+	url = https://github.com/Lacro59/playnite-indiegala-plugin.git
+[submodule "playnite-descriptioneditor-plugin"]
+	path = playnite-descriptioneditor-plugin
+	url = https://github.com/Lacro59/playnite-descriptioneditor-plugin.git
+[submodule "playnite-checklocalizations-plugin"]
+	path = playnite-checklocalizations-plugin
+	url = https://github.com/Lacro59/playnite-checklocalizations-plugin.git
+[submodule "playnite-isthereanydeal-plugin"]
+	path = playnite-isthereanydeal-plugin
+	url = https://github.com/Lacro59/playnite-isthereanydeal-plugin.git
+[submodule "playnite-howlongtobeat-plugin"]
+	path = playnite-howlongtobeat-plugin
+	url = https://github.com/Lacro59/playnite-howlongtobeat-plugin.git
